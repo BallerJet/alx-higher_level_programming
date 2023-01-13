@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-# 1-write_file.py
+# 3-write_file.py
 
 """Defines a file-writing function."""
-
 
 
 def write_file(filename="", text=""):
